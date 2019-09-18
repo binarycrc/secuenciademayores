@@ -31,7 +31,10 @@ public class SecuenciaDeMayores {
         mxPrincipal.setintMinimo(1);
         mxPrincipal.setintMaximo(9);
         mxPrincipal.LlenaMatriz();
+        
         mxPrincipal.ImprimeMatriz();
+        
+        mxPrincipal.Secuencia(0,0);
 
     }
 }
